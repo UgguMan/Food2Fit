@@ -1,0 +1,1344 @@
+{
+  "profile": {
+    "age": 29,
+    "gender": "male",
+    "height": 178,
+    "weight": 76,
+    "activityLevel": "moderate",
+    "goal": "fat-loss",
+    "dietPreference": "veg",
+    "allergies": [],
+    "workoutDays": 4,
+    "equipment": "home"
+  },
+  "mealPlan": {
+    "metrics": {
+      "bmi": 24,
+      "bmr": 1732.5,
+      "tdee": 2685.4
+    },
+    "targets": {
+      "calories": 2285,
+      "protein": 121.6,
+      "carbs": 278.3,
+      "fat": 76.2,
+      "fiber": 32
+    },
+    "warnings": [],
+    "days": [
+      {
+        "day": 1,
+        "meals": [
+          {
+            "type": "breakfast",
+            "foods": [
+              {
+                "food": "00000000000000000000002a",
+                "name": "Whole-wheat bread",
+                "grams": 140,
+                "nutrition": {
+                  "calories": 345.8,
+                  "protein": 18.2,
+                  "carbs": 57.4,
+                  "fat": 5.9,
+                  "fiber": 9.8
+                }
+              },
+              {
+                "food": "000000000000000000000013",
+                "name": "Plain soy yogurt",
+                "grams": 400,
+                "nutrition": {
+                  "calories": 240,
+                  "protein": 16,
+                  "carbs": 12,
+                  "fat": 12,
+                  "fiber": 2
+                }
+              }
+            ],
+            "totals": {
+              "calories": 585.8,
+              "protein": 34.2,
+              "carbs": 69.4,
+              "fat": 17.9,
+              "fiber": 11.8
+            }
+          },
+          {
+            "type": "lunch",
+            "foods": [
+              {
+                "food": "000000000000000000000008",
+                "name": "Cooked quinoa",
+                "grams": 360,
+                "nutrition": {
+                  "calories": 432,
+                  "protein": 15.8,
+                  "carbs": 75.6,
+                  "fat": 6.8,
+                  "fiber": 10.1
+                }
+              },
+              {
+                "food": "00000000000000000000002d",
+                "name": "Plain paneer",
+                "grams": 100,
+                "nutrition": {
+                  "calories": 265,
+                  "protein": 18,
+                  "carbs": 3,
+                  "fat": 21,
+                  "fiber": 0
+                }
+              }
+            ],
+            "totals": {
+              "calories": 697,
+              "protein": 33.8,
+              "carbs": 78.6,
+              "fat": 27.8,
+              "fiber": 10.1
+            }
+          },
+          {
+            "type": "snack",
+            "foods": [
+              {
+                "food": "00000000000000000000000a",
+                "name": "Cooked oats",
+                "grams": 375,
+                "nutrition": {
+                  "calories": 266.3,
+                  "protein": 9.4,
+                  "carbs": 45,
+                  "fat": 5.6,
+                  "fiber": 6.4
+                }
+              },
+              {
+                "food": "00000000000000000000002c",
+                "name": "Plain cottage cheese",
+                "grams": 75,
+                "nutrition": {
+                  "calories": 73.5,
+                  "protein": 8.3,
+                  "carbs": 2.6,
+                  "fat": 3.2,
+                  "fiber": 0
+                }
+              }
+            ],
+            "totals": {
+              "calories": 339.8,
+              "protein": 17.7,
+              "carbs": 47.6,
+              "fat": 8.8,
+              "fiber": 6.4
+            }
+          },
+          {
+            "type": "dinner",
+            "foods": [
+              {
+                "food": "000000000000000000000010",
+                "name": "Plain tempeh",
+                "grams": 180,
+                "nutrition": {
+                  "calories": 347.4,
+                  "protein": 36,
+                  "carbs": 14.4,
+                  "fat": 19.8,
+                  "fiber": 7.2
+                }
+              },
+              {
+                "food": "000000000000000000000009",
+                "name": "Cooked brown rice",
+                "grams": 270,
+                "nutrition": {
+                  "calories": 332.1,
+                  "protein": 7.3,
+                  "carbs": 70.2,
+                  "fat": 2.7,
+                  "fiber": 4.3
+                }
+              }
+            ],
+            "totals": {
+              "calories": 679.5,
+              "protein": 43.3,
+              "carbs": 84.6,
+              "fat": 22.5,
+              "fiber": 11.5
+            }
+          }
+        ],
+        "totals": {
+          "calories": 2302.1,
+          "protein": 129,
+          "carbs": 280.2,
+          "fat": 77,
+          "fiber": 39.8
+        },
+        "deviation": {
+          "calories": 0.7,
+          "protein": 6.1,
+          "carbs": 0.7,
+          "fat": 1,
+          "fiber": 24.4
+        }
+      },
+      {
+        "day": 2,
+        "meals": [
+          {
+            "type": "breakfast",
+            "foods": [
+              {
+                "food": "000000000000000000000011",
+                "name": "Cooked edamame",
+                "grams": 225,
+                "nutrition": {
+                  "calories": 272.3,
+                  "protein": 27,
+                  "carbs": 20.3,
+                  "fat": 11.3,
+                  "fiber": 11.3
+                }
+              },
+              {
+                "food": "00000000000000000000000b",
+                "name": "Cooked millet",
+                "grams": 180,
+                "nutrition": {
+                  "calories": 214.2,
+                  "protein": 6.3,
+                  "carbs": 43.2,
+                  "fat": 1.8,
+                  "fiber": 2.3
+                }
+              },
+              {
+                "food": "00000000000000000000001e",
+                "name": "Black olives",
+                "grams": 60,
+                "nutrition": {
+                  "calories": 69.6,
+                  "protein": 0.5,
+                  "carbs": 3.6,
+                  "fat": 6.6,
+                  "fiber": 1
+                }
+              }
+            ],
+            "totals": {
+              "calories": 556.1,
+              "protein": 33.8,
+              "carbs": 67.1,
+              "fat": 19.7,
+              "fiber": 14.6
+            }
+          },
+          {
+            "type": "lunch",
+            "foods": [
+              {
+                "food": "00000000000000000000000f",
+                "name": "Plain firm tofu",
+                "grams": 225,
+                "nutrition": {
+                  "calories": 324,
+                  "protein": 38.3,
+                  "carbs": 6.8,
+                  "fat": 19.6,
+                  "fiber": 5.2
+                }
+              },
+              {
+                "food": "000000000000000000000025",
+                "name": "Banana",
+                "grams": 240,
+                "nutrition": {
+                  "calories": 213.6,
+                  "protein": 2.6,
+                  "carbs": 55.2,
+                  "fat": 0.7,
+                  "fiber": 6.2
+                }
+              },
+              {
+                "food": "000000000000000000000024",
+                "name": "Apple",
+                "grams": 150,
+                "nutrition": {
+                  "calories": 78,
+                  "protein": 0.5,
+                  "carbs": 21,
+                  "fat": 0.3,
+                  "fiber": 3.6
+                }
+              }
+            ],
+            "totals": {
+              "calories": 615.6,
+              "protein": 41.4,
+              "carbs": 83,
+              "fat": 20.6,
+              "fiber": 15
+            }
+          },
+          {
+            "type": "snack",
+            "foods": [
+              {
+                "food": "00000000000000000000002a",
+                "name": "Whole-wheat bread",
+                "grams": 105,
+                "nutrition": {
+                  "calories": 259.4,
+                  "protein": 13.7,
+                  "carbs": 43.1,
+                  "fat": 4.4,
+                  "fiber": 7.4
+                }
+              },
+              {
+                "food": "00000000000000000000001c",
+                "name": "Hemp seeds",
+                "grams": 15,
+                "nutrition": {
+                  "calories": 83,
+                  "protein": 4.8,
+                  "carbs": 1.4,
+                  "fat": 7.4,
+                  "fiber": 0.6
+                }
+              }
+            ],
+            "totals": {
+              "calories": 342.4,
+              "protein": 18.5,
+              "carbs": 44.5,
+              "fat": 11.8,
+              "fiber": 8
+            }
+          },
+          {
+            "type": "dinner",
+            "foods": [
+              {
+                "food": "000000000000000000000006",
+                "name": "Cooked white beans",
+                "grams": 300,
+                "nutrition": {
+                  "calories": 417,
+                  "protein": 29.1,
+                  "carbs": 75,
+                  "fat": 1.2,
+                  "fiber": 18.9
+                }
+              },
+              {
+                "food": "000000000000000000000017",
+                "name": "Walnuts",
+                "grams": 30,
+                "nutrition": {
+                  "calories": 196.2,
+                  "protein": 4.5,
+                  "carbs": 4.2,
+                  "fat": 19.5,
+                  "fiber": 2.1
+                }
+              }
+            ],
+            "totals": {
+              "calories": 613.2,
+              "protein": 33.6,
+              "carbs": 79.2,
+              "fat": 20.7,
+              "fiber": 21
+            }
+          }
+        ],
+        "totals": {
+          "calories": 2127.3,
+          "protein": 127.3,
+          "carbs": 273.8,
+          "fat": 72.8,
+          "fiber": 58.6
+        },
+        "deviation": {
+          "calories": -6.9,
+          "protein": 4.7,
+          "carbs": -1.6,
+          "fat": -4.5,
+          "fiber": 83.1
+        }
+      },
+      {
+        "day": 3,
+        "meals": [
+          {
+            "type": "breakfast",
+            "foods": [
+              {
+                "food": "000000000000000000000008",
+                "name": "Cooked quinoa",
+                "grams": 360,
+                "nutrition": {
+                  "calories": 432,
+                  "protein": 15.8,
+                  "carbs": 75.6,
+                  "fat": 6.8,
+                  "fiber": 10.1
+                }
+              },
+              {
+                "food": "000000000000000000000014",
+                "name": "Unsweetened soy milk",
+                "grams": 500,
+                "nutrition": {
+                  "calories": 165,
+                  "protein": 16.5,
+                  "carbs": 5,
+                  "fat": 9,
+                  "fiber": 3
+                }
+              }
+            ],
+            "totals": {
+              "calories": 597,
+              "protein": 32.3,
+              "carbs": 80.6,
+              "fat": 15.8,
+              "fiber": 13.1
+            }
+          },
+          {
+            "type": "lunch",
+            "foods": [
+              {
+                "food": "000000000000000000000002",
+                "name": "Cooked chickpeas",
+                "grams": 225,
+                "nutrition": {
+                  "calories": 369,
+                  "protein": 20.3,
+                  "carbs": 60.8,
+                  "fat": 5.9,
+                  "fiber": 17.1
+                }
+              },
+              {
+                "food": "000000000000000000000018",
+                "name": "Pumpkin seeds",
+                "grams": 45,
+                "nutrition": {
+                  "calories": 251.6,
+                  "protein": 13.5,
+                  "carbs": 5,
+                  "fat": 22.1,
+                  "fiber": 2.7
+                }
+              }
+            ],
+            "totals": {
+              "calories": 620.6,
+              "protein": 33.8,
+              "carbs": 65.8,
+              "fat": 28,
+              "fiber": 19.8
+            }
+          },
+          {
+            "type": "snack",
+            "foods": [
+              {
+                "food": "000000000000000000000013",
+                "name": "Plain soy yogurt",
+                "grams": 400,
+                "nutrition": {
+                  "calories": 240,
+                  "protein": 16,
+                  "carbs": 12,
+                  "fat": 12,
+                  "fiber": 2
+                }
+              },
+              {
+                "food": "000000000000000000000028",
+                "name": "Blueberries",
+                "grams": 200,
+                "nutrition": {
+                  "calories": 114,
+                  "protein": 1.4,
+                  "carbs": 28,
+                  "fat": 0.6,
+                  "fiber": 4.8
+                }
+              }
+            ],
+            "totals": {
+              "calories": 354,
+              "protein": 17.4,
+              "carbs": 40,
+              "fat": 12.6,
+              "fiber": 6.8
+            }
+          },
+          {
+            "type": "dinner",
+            "foods": [
+              {
+                "food": "000000000000000000000029",
+                "name": "Plain hummus",
+                "grams": 200,
+                "nutrition": {
+                  "calories": 332,
+                  "protein": 16,
+                  "carbs": 28,
+                  "fat": 20,
+                  "fiber": 12
+                }
+              },
+              {
+                "food": "00000000000000000000000c",
+                "name": "Cooked buckwheat",
+                "grams": 270,
+                "nutrition": {
+                  "calories": 248.4,
+                  "protein": 9.2,
+                  "carbs": 54,
+                  "fat": 1.6,
+                  "fiber": 7.3
+                }
+              },
+              {
+                "food": "00000000000000000000002b",
+                "name": "Plain Greek yogurt",
+                "grams": 100,
+                "nutrition": {
+                  "calories": 73,
+                  "protein": 10,
+                  "carbs": 4,
+                  "fat": 2,
+                  "fiber": 0
+                }
+              }
+            ],
+            "totals": {
+              "calories": 653.4,
+              "protein": 35.2,
+              "carbs": 86,
+              "fat": 23.6,
+              "fiber": 19.3
+            }
+          }
+        ],
+        "totals": {
+          "calories": 2225,
+          "protein": 118.7,
+          "carbs": 272.4,
+          "fat": 80,
+          "fiber": 59
+        },
+        "deviation": {
+          "calories": -2.6,
+          "protein": -2.4,
+          "carbs": -2.1,
+          "fat": 5,
+          "fiber": 84.4
+        }
+      },
+      {
+        "day": 4,
+        "meals": [
+          {
+            "type": "breakfast",
+            "foods": [
+              {
+                "food": "00000000000000000000002a",
+                "name": "Whole-wheat bread",
+                "grams": 140,
+                "nutrition": {
+                  "calories": 345.8,
+                  "protein": 18.2,
+                  "carbs": 57.4,
+                  "fat": 5.9,
+                  "fiber": 9.8
+                }
+              },
+              {
+                "food": "000000000000000000000015",
+                "name": "Roasted peanuts",
+                "grams": 30,
+                "nutrition": {
+                  "calories": 175.5,
+                  "protein": 7.2,
+                  "carbs": 6.3,
+                  "fat": 15,
+                  "fiber": 2.4
+                }
+              }
+            ],
+            "totals": {
+              "calories": 521.3,
+              "protein": 25.4,
+              "carbs": 63.7,
+              "fat": 20.9,
+              "fiber": 12.2
+            }
+          },
+          {
+            "type": "lunch",
+            "foods": [
+              {
+                "food": "000000000000000000000010",
+                "name": "Plain tempeh",
+                "grams": 180,
+                "nutrition": {
+                  "calories": 347.4,
+                  "protein": 36,
+                  "carbs": 14.4,
+                  "fat": 19.8,
+                  "fiber": 7.2
+                }
+              },
+              {
+                "food": "00000000000000000000000d",
+                "name": "Baked sweet potato",
+                "grams": 270,
+                "nutrition": {
+                  "calories": 243,
+                  "protein": 5.4,
+                  "carbs": 56.7,
+                  "fat": 0.5,
+                  "fiber": 8.9
+                }
+              }
+            ],
+            "totals": {
+              "calories": 590.4,
+              "protein": 41.4,
+              "carbs": 71.1,
+              "fat": 20.3,
+              "fiber": 16.1
+            }
+          },
+          {
+            "type": "snack",
+            "foods": [
+              {
+                "food": "00000000000000000000000a",
+                "name": "Cooked oats",
+                "grams": 375,
+                "nutrition": {
+                  "calories": 266.3,
+                  "protein": 9.4,
+                  "carbs": 45,
+                  "fat": 5.6,
+                  "fiber": 6.4
+                }
+              },
+              {
+                "food": "00000000000000000000002c",
+                "name": "Plain cottage cheese",
+                "grams": 75,
+                "nutrition": {
+                  "calories": 73.5,
+                  "protein": 8.3,
+                  "carbs": 2.6,
+                  "fat": 3.2,
+                  "fiber": 0
+                }
+              }
+            ],
+            "totals": {
+              "calories": 339.8,
+              "protein": 17.7,
+              "carbs": 47.6,
+              "fat": 8.8,
+              "fiber": 6.4
+            }
+          },
+          {
+            "type": "dinner",
+            "foods": [
+              {
+                "food": "000000000000000000000004",
+                "name": "Cooked kidney beans",
+                "grams": 300,
+                "nutrition": {
+                  "calories": 381,
+                  "protein": 26.1,
+                  "carbs": 69,
+                  "fat": 1.5,
+                  "fiber": 19.2
+                }
+              },
+              {
+                "food": "000000000000000000000019",
+                "name": "Sunflower seeds",
+                "grams": 45,
+                "nutrition": {
+                  "calories": 262.8,
+                  "protein": 9.5,
+                  "carbs": 9,
+                  "fat": 23,
+                  "fiber": 3.9
+                }
+              }
+            ],
+            "totals": {
+              "calories": 643.8,
+              "protein": 35.6,
+              "carbs": 78,
+              "fat": 24.5,
+              "fiber": 23.1
+            }
+          }
+        ],
+        "totals": {
+          "calories": 2095.3,
+          "protein": 120.1,
+          "carbs": 260.4,
+          "fat": 74.5,
+          "fiber": 57.8
+        },
+        "deviation": {
+          "calories": -8.3,
+          "protein": -1.2,
+          "carbs": -6.4,
+          "fat": -2.2,
+          "fiber": 80.6
+        }
+      },
+      {
+        "day": 5,
+        "meals": [
+          {
+            "type": "breakfast",
+            "foods": [
+              {
+                "food": "000000000000000000000008",
+                "name": "Cooked quinoa",
+                "grams": 360,
+                "nutrition": {
+                  "calories": 432,
+                  "protein": 15.8,
+                  "carbs": 75.6,
+                  "fat": 6.8,
+                  "fiber": 10.1
+                }
+              },
+              {
+                "food": "00000000000000000000002d",
+                "name": "Plain paneer",
+                "grams": 50,
+                "nutrition": {
+                  "calories": 132.5,
+                  "protein": 9,
+                  "carbs": 1.5,
+                  "fat": 10.5,
+                  "fiber": 0
+                }
+              }
+            ],
+            "totals": {
+              "calories": 564.5,
+              "protein": 24.8,
+              "carbs": 77.1,
+              "fat": 17.3,
+              "fiber": 10.1
+            }
+          },
+          {
+            "type": "lunch",
+            "foods": [
+              {
+                "food": "00000000000000000000000f",
+                "name": "Plain firm tofu",
+                "grams": 225,
+                "nutrition": {
+                  "calories": 324,
+                  "protein": 38.3,
+                  "carbs": 6.8,
+                  "fat": 19.6,
+                  "fiber": 5.2
+                }
+              },
+              {
+                "food": "000000000000000000000009",
+                "name": "Cooked brown rice",
+                "grams": 270,
+                "nutrition": {
+                  "calories": 332.1,
+                  "protein": 7.3,
+                  "carbs": 70.2,
+                  "fat": 2.7,
+                  "fiber": 4.3
+                }
+              }
+            ],
+            "totals": {
+              "calories": 656.1,
+              "protein": 45.6,
+              "carbs": 77,
+              "fat": 22.3,
+              "fiber": 9.5
+            }
+          },
+          {
+            "type": "snack",
+            "foods": [
+              {
+                "food": "000000000000000000000013",
+                "name": "Plain soy yogurt",
+                "grams": 400,
+                "nutrition": {
+                  "calories": 240,
+                  "protein": 16,
+                  "carbs": 12,
+                  "fat": 12,
+                  "fiber": 2
+                }
+              },
+              {
+                "food": "000000000000000000000026",
+                "name": "Orange",
+                "grams": 225,
+                "nutrition": {
+                  "calories": 105.8,
+                  "protein": 2,
+                  "carbs": 27,
+                  "fat": 0.2,
+                  "fiber": 5.4
+                }
+              }
+            ],
+            "totals": {
+              "calories": 345.8,
+              "protein": 18,
+              "carbs": 39,
+              "fat": 12.2,
+              "fiber": 7.4
+            }
+          },
+          {
+            "type": "dinner",
+            "foods": [
+              {
+                "food": "000000000000000000000029",
+                "name": "Plain hummus",
+                "grams": 200,
+                "nutrition": {
+                  "calories": 332,
+                  "protein": 16,
+                  "carbs": 28,
+                  "fat": 20,
+                  "fiber": 12
+                }
+              },
+              {
+                "food": "00000000000000000000000b",
+                "name": "Cooked millet",
+                "grams": 270,
+                "nutrition": {
+                  "calories": 321.3,
+                  "protein": 9.5,
+                  "carbs": 64.8,
+                  "fat": 2.7,
+                  "fiber": 3.5
+                }
+              },
+              {
+                "food": "000000000000000000000012",
+                "name": "Plain seitan",
+                "grams": 60,
+                "nutrition": {
+                  "calories": 84.6,
+                  "protein": 15,
+                  "carbs": 7.2,
+                  "fat": 1.2,
+                  "fiber": 0.6
+                }
+              }
+            ],
+            "totals": {
+              "calories": 737.9,
+              "protein": 40.5,
+              "carbs": 100,
+              "fat": 23.9,
+              "fiber": 16.1
+            }
+          }
+        ],
+        "totals": {
+          "calories": 2304.3,
+          "protein": 128.9,
+          "carbs": 293.1,
+          "fat": 75.7,
+          "fiber": 43.1
+        },
+        "deviation": {
+          "calories": 0.8,
+          "protein": 6,
+          "carbs": 5.3,
+          "fat": -0.7,
+          "fiber": 34.7
+        }
+      },
+      {
+        "day": 6,
+        "meals": [
+          {
+            "type": "breakfast",
+            "foods": [
+              {
+                "food": "000000000000000000000002",
+                "name": "Cooked chickpeas",
+                "grams": 225,
+                "nutrition": {
+                  "calories": 369,
+                  "protein": 20.3,
+                  "carbs": 60.8,
+                  "fat": 5.9,
+                  "fiber": 17.1
+                }
+              },
+              {
+                "food": "00000000000000000000001c",
+                "name": "Hemp seeds",
+                "grams": 30,
+                "nutrition": {
+                  "calories": 165.9,
+                  "protein": 9.6,
+                  "carbs": 2.7,
+                  "fat": 14.7,
+                  "fiber": 1.2
+                }
+              }
+            ],
+            "totals": {
+              "calories": 534.9,
+              "protein": 29.9,
+              "carbs": 63.5,
+              "fat": 20.6,
+              "fiber": 18.3
+            }
+          },
+          {
+            "type": "lunch",
+            "foods": [
+              {
+                "food": "000000000000000000000006",
+                "name": "Cooked white beans",
+                "grams": 300,
+                "nutrition": {
+                  "calories": 417,
+                  "protein": 29.1,
+                  "carbs": 75,
+                  "fat": 1.2,
+                  "fiber": 18.9
+                }
+              },
+              {
+                "food": "000000000000000000000016",
+                "name": "Almonds",
+                "grams": 45,
+                "nutrition": {
+                  "calories": 260.6,
+                  "protein": 9.5,
+                  "carbs": 9.9,
+                  "fat": 22.5,
+                  "fiber": 5.4
+                }
+              }
+            ],
+            "totals": {
+              "calories": 677.6,
+              "protein": 38.6,
+              "carbs": 84.9,
+              "fat": 23.7,
+              "fiber": 24.3
+            }
+          },
+          {
+            "type": "snack",
+            "foods": [
+              {
+                "food": "00000000000000000000000a",
+                "name": "Cooked oats",
+                "grams": 375,
+                "nutrition": {
+                  "calories": 266.3,
+                  "protein": 9.4,
+                  "carbs": 45,
+                  "fat": 5.6,
+                  "fiber": 6.4
+                }
+              },
+              {
+                "food": "000000000000000000000014",
+                "name": "Unsweetened soy milk",
+                "grams": 250,
+                "nutrition": {
+                  "calories": 82.5,
+                  "protein": 8.3,
+                  "carbs": 2.5,
+                  "fat": 4.5,
+                  "fiber": 1.5
+                }
+              }
+            ],
+            "totals": {
+              "calories": 348.8,
+              "protein": 17.7,
+              "carbs": 47.5,
+              "fat": 10.1,
+              "fiber": 7.9
+            }
+          },
+          {
+            "type": "dinner",
+            "foods": [
+              {
+                "food": "000000000000000000000010",
+                "name": "Plain tempeh",
+                "grams": 180,
+                "nutrition": {
+                  "calories": 347.4,
+                  "protein": 36,
+                  "carbs": 14.4,
+                  "fat": 19.8,
+                  "fiber": 7.2
+                }
+              },
+              {
+                "food": "000000000000000000000025",
+                "name": "Banana",
+                "grams": 240,
+                "nutrition": {
+                  "calories": 213.6,
+                  "protein": 2.6,
+                  "carbs": 55.2,
+                  "fat": 0.7,
+                  "fiber": 6.2
+                }
+              }
+            ],
+            "totals": {
+              "calories": 561,
+              "protein": 38.6,
+              "carbs": 69.6,
+              "fat": 20.5,
+              "fiber": 13.4
+            }
+          }
+        ],
+        "totals": {
+          "calories": 2122.3,
+          "protein": 124.8,
+          "carbs": 265.5,
+          "fat": 74.9,
+          "fiber": 63.9
+        },
+        "deviation": {
+          "calories": -7.1,
+          "protein": 2.6,
+          "carbs": -4.6,
+          "fat": -1.7,
+          "fiber": 99.7
+        }
+      },
+      {
+        "day": 7,
+        "meals": [
+          {
+            "type": "breakfast",
+            "foods": [
+              {
+                "food": "000000000000000000000011",
+                "name": "Cooked edamame",
+                "grams": 225,
+                "nutrition": {
+                  "calories": 272.3,
+                  "protein": 27,
+                  "carbs": 20.3,
+                  "fat": 11.3,
+                  "fiber": 11.3
+                }
+              },
+              {
+                "food": "000000000000000000000009",
+                "name": "Cooked brown rice",
+                "grams": 180,
+                "nutrition": {
+                  "calories": 221.4,
+                  "protein": 4.9,
+                  "carbs": 46.8,
+                  "fat": 1.8,
+                  "fiber": 2.9
+                }
+              }
+            ],
+            "totals": {
+              "calories": 493.7,
+              "protein": 31.9,
+              "carbs": 67.1,
+              "fat": 13.1,
+              "fiber": 14.2
+            }
+          },
+          {
+            "type": "lunch",
+            "foods": [
+              {
+                "food": "000000000000000000000004",
+                "name": "Cooked kidney beans",
+                "grams": 300,
+                "nutrition": {
+                  "calories": 381,
+                  "protein": 26.1,
+                  "carbs": 69,
+                  "fat": 1.5,
+                  "fiber": 19.2
+                }
+              },
+              {
+                "food": "000000000000000000000018",
+                "name": "Pumpkin seeds",
+                "grams": 45,
+                "nutrition": {
+                  "calories": 251.6,
+                  "protein": 13.5,
+                  "carbs": 5,
+                  "fat": 22.1,
+                  "fiber": 2.7
+                }
+              }
+            ],
+            "totals": {
+              "calories": 632.6,
+              "protein": 39.6,
+              "carbs": 74,
+              "fat": 23.6,
+              "fiber": 21.9
+            }
+          },
+          {
+            "type": "snack",
+            "foods": [
+              {
+                "food": "00000000000000000000002a",
+                "name": "Whole-wheat bread",
+                "grams": 105,
+                "nutrition": {
+                  "calories": 259.4,
+                  "protein": 13.7,
+                  "carbs": 43.1,
+                  "fat": 4.4,
+                  "fiber": 7.4
+                }
+              },
+              {
+                "food": "000000000000000000000015",
+                "name": "Roasted peanuts",
+                "grams": 15,
+                "nutrition": {
+                  "calories": 87.8,
+                  "protein": 3.6,
+                  "carbs": 3.2,
+                  "fat": 7.5,
+                  "fiber": 1.2
+                }
+              }
+            ],
+            "totals": {
+              "calories": 347.2,
+              "protein": 17.3,
+              "carbs": 46.3,
+              "fat": 11.9,
+              "fiber": 8.6
+            }
+          },
+          {
+            "type": "dinner",
+            "foods": [
+              {
+                "food": "00000000000000000000000f",
+                "name": "Plain firm tofu",
+                "grams": 225,
+                "nutrition": {
+                  "calories": 324,
+                  "protein": 38.3,
+                  "carbs": 6.8,
+                  "fat": 19.6,
+                  "fiber": 5.2
+                }
+              },
+              {
+                "food": "00000000000000000000000d",
+                "name": "Baked sweet potato",
+                "grams": 360,
+                "nutrition": {
+                  "calories": 324,
+                  "protein": 7.2,
+                  "carbs": 75.6,
+                  "fat": 0.7,
+                  "fiber": 11.9
+                }
+              }
+            ],
+            "totals": {
+              "calories": 648,
+              "protein": 45.5,
+              "carbs": 82.4,
+              "fat": 20.3,
+              "fiber": 17.1
+            }
+          }
+        ],
+        "totals": {
+          "calories": 2121.5,
+          "protein": 134.3,
+          "carbs": 269.8,
+          "fat": 68.9,
+          "fiber": 61.8
+        },
+        "deviation": {
+          "calories": -7.2,
+          "protein": 10.4,
+          "carbs": -3.1,
+          "fat": -9.6,
+          "fiber": 93.1
+        }
+      }
+    ],
+    "sources": [
+      "Food2Fit illustrative sample (not Protein Nap)"
+    ],
+    "algorithmVersion": "1.0",
+    "notes": [
+      "Illustrative estimates, not a medical diet. Check ingredient labels and cross-contact for allergies.",
+      "Food amounts use the preparation state named in the dataset. Targets and actual totals are shown separately."
+    ]
+  },
+  "workoutPlan": {
+    "days": [
+      {
+        "day": 1,
+        "title": "Push",
+        "exercises": [
+          {
+            "exercise": "00000000000000000000000c",
+            "name": "Band chest press",
+            "sets": 2,
+            "reps": "10–15",
+            "restSeconds": 60
+          },
+          {
+            "exercise": "00000000000000000000000b",
+            "name": "Dumbbell floor press",
+            "sets": 2,
+            "reps": "10–15",
+            "restSeconds": 60
+          },
+          {
+            "exercise": "000000000000000000000011",
+            "name": "Band Pallof press",
+            "sets": 2,
+            "reps": "8–12 controlled reps",
+            "restSeconds": 60
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Pull",
+        "exercises": [
+          {
+            "exercise": "00000000000000000000000e",
+            "name": "Band row",
+            "sets": 2,
+            "reps": "10–15",
+            "restSeconds": 60
+          },
+          {
+            "exercise": "00000000000000000000000d",
+            "name": "Dumbbell row",
+            "sets": 2,
+            "reps": "10–15",
+            "restSeconds": 60
+          },
+          {
+            "exercise": "000000000000000000000007",
+            "name": "Bird dog",
+            "sets": 2,
+            "reps": "8–12 controlled reps",
+            "restSeconds": 60
+          }
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Legs",
+        "exercises": [
+          {
+            "exercise": "000000000000000000000005",
+            "name": "Bodyweight squat",
+            "sets": 2,
+            "reps": "10–15",
+            "restSeconds": 60
+          },
+          {
+            "exercise": "000000000000000000000010",
+            "name": "Dumbbell Romanian deadlift",
+            "sets": 2,
+            "reps": "10–15",
+            "restSeconds": 60
+          },
+          {
+            "exercise": "000000000000000000000008",
+            "name": "Dead bug",
+            "sets": 2,
+            "reps": "8–12 controlled reps",
+            "restSeconds": 60
+          }
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Low-impact intervals",
+        "exercises": [
+          {
+            "exercise": "00000000000000000000000a",
+            "name": "Easy walking",
+            "sets": 2,
+            "reps": "30 seconds comfortable effort",
+            "restSeconds": 60
+          },
+          {
+            "exercise": "000000000000000000000011",
+            "name": "Band Pallof press",
+            "sets": 2,
+            "reps": "8–12 controlled reps",
+            "restSeconds": 60
+          }
+        ]
+      }
+    ],
+    "restDays": [
+      3,
+      5,
+      7
+    ],
+    "notes": [
+      "Start with 5 minutes of easy movement. Use controlled, pain-free motion and a load you can manage.",
+      "Home equipment assumes dumbbells or resistance bands. Choose none if you do not have them.",
+      "Interval days are low-impact introductions, not all-out HIIT. Six/seven-day schedules include an active-recovery day."
+    ]
+  },
+  "stale": false
+}

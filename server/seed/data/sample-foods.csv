@@ -1,0 +1,51 @@
+name,category,calories,protein,carbs,fat,fiber,serving_grams,diet_tags,allergens,meal_types,basis
+Cooked lentils,legume,116,9,20,0.4,8,150,vegan,none,breakfast;lunch;snack;dinner,per_100g
+Cooked chickpeas,legume,164,9,27,2.6,7.6,150,vegan,none,breakfast;lunch;snack;dinner,per_100g
+Cooked black beans,legume,132,9,24,0.5,8.7,150,vegan,none,breakfast;lunch;snack;dinner,per_100g
+Cooked kidney beans,legume,127,8.7,23,0.5,6.4,150,vegan,none,breakfast;lunch;snack;dinner,per_100g
+Cooked mung beans,legume,105,7,19,0.4,7.6,150,vegan,none,breakfast;lunch;snack;dinner,per_100g
+Cooked white beans,legume,139,9.7,25,0.4,6.3,150,vegan,none,breakfast;lunch;snack;dinner,per_100g
+Cooked split peas,legume,118,8.3,21,0.4,8.3,150,vegan,none,breakfast;lunch;snack;dinner,per_100g
+Cooked quinoa,grain,120,4.4,21,1.9,2.8,180,vegan,none,breakfast;lunch;snack;dinner,per_100g
+Cooked brown rice,grain,123,2.7,26,1,1.6,180,vegan,none,breakfast;lunch;snack;dinner,per_100g
+Cooked oats,grain,71,2.5,12,1.5,1.7,250,vegan,gluten,breakfast;lunch;snack;dinner,per_100g
+Cooked millet,grain,119,3.5,24,1,1.3,180,vegan,none,breakfast;lunch;snack;dinner,per_100g
+Cooked buckwheat,grain,92,3.4,20,0.6,2.7,180,vegan,none,breakfast;lunch;snack;dinner,per_100g
+Baked sweet potato,vegetable,90,2,21,0.2,3.3,180,vegan,none,breakfast;lunch;snack;dinner,per_100g
+Steamed green peas,vegetable,84,5.4,15,0.4,5.5,150,vegan,none,breakfast;lunch;snack;dinner,per_100g
+Plain firm tofu,protein,144,17,3,8.7,2.3,150,vegan;keto,soy,breakfast;lunch;snack;dinner,per_100g
+Plain tempeh,protein,193,20,8,11,4,120,vegan;keto,soy,breakfast;lunch;snack;dinner,per_100g
+Cooked edamame,protein,121,12,9,5,5,150,vegan;keto,soy,breakfast;lunch;snack;dinner,per_100g
+Plain seitan,protein,141,25,12,2,1,120,vegan,wheat;gluten,breakfast;lunch;snack;dinner,per_100g
+Plain soy yogurt,protein,60,4,3,3,0.5,200,vegan;keto,soy,breakfast;lunch;snack;dinner,per_100g
+Unsweetened soy milk,protein,33,3.3,1,1.8,0.6,250,vegan;keto,soy,breakfast;lunch;snack;dinner,per_100g
+Roasted peanuts,nut,585,24,21,50,8,30,vegan;keto,peanut,breakfast;lunch;snack;dinner,per_100g
+Almonds,nut,579,21,22,50,12,30,vegan;keto,tree-nut,breakfast;lunch;snack;dinner,per_100g
+Walnuts,nut,654,15,14,65,7,30,vegan;keto,tree-nut,breakfast;lunch;snack;dinner,per_100g
+Pumpkin seeds,seed,559,30,11,49,6,30,vegan;keto,none,breakfast;lunch;snack;dinner,per_100g
+Sunflower seeds,seed,584,21,20,51,8.6,30,vegan;keto,none,breakfast;lunch;snack;dinner,per_100g
+Chia seeds,seed,486,17,42,31,34,20,vegan,none,breakfast;lunch;snack;dinner,per_100g
+Ground flaxseed,seed,534,18,29,42,27,20,vegan,none,breakfast;lunch;snack;dinner,per_100g
+Hemp seeds,seed,553,32,9,49,4,30,vegan;keto,none,breakfast;lunch;snack;dinner,per_100g
+Avocado,fruit,160,2,9,15,7,100,vegan;keto,none,breakfast;lunch;snack;dinner,per_100g
+Black olives,fruit,116,0.8,6,11,1.6,60,vegan;keto,none,breakfast;lunch;snack;dinner,per_100g
+Steamed broccoli,vegetable,35,2.4,7,0.4,3.3,150,vegan;keto,none,breakfast;lunch;snack;dinner,per_100g
+Steamed cauliflower,vegetable,23,1.8,4,0.5,2.3,150,vegan;keto,none,breakfast;lunch;snack;dinner,per_100g
+Cooked spinach,vegetable,23,3,4,0.3,2.4,150,vegan;keto,none,breakfast;lunch;snack;dinner,per_100g
+Cooked mushrooms,vegetable,28,3.6,5,0.5,2.2,150,vegan;keto,none,breakfast;lunch;snack;dinner,per_100g
+Steamed zucchini,vegetable,17,1.2,3,0.3,1,150,vegan;keto,none,breakfast;lunch;snack;dinner,per_100g
+Apple,fruit,52,0.3,14,0.2,2.4,150,vegan,none,breakfast;lunch;snack;dinner,per_100g
+Banana,fruit,89,1.1,23,0.3,2.6,120,vegan,none,breakfast;lunch;snack;dinner,per_100g
+Orange,fruit,47,0.9,12,0.1,2.4,150,vegan,none,breakfast;lunch;snack;dinner,per_100g
+Strawberries,fruit,32,0.7,8,0.3,2,150,vegan,none,breakfast;lunch;snack;dinner,per_100g
+Blueberries,fruit,57,0.7,14,0.3,2.4,100,vegan,none,breakfast;lunch;snack;dinner,per_100g
+Plain hummus,spread,166,8,14,10,6,100,vegan,sesame,breakfast;lunch;snack;dinner,per_100g
+Whole-wheat bread,grain,247,13,41,4.2,7,70,vegan,wheat;gluten,breakfast;lunch;snack;dinner,per_100g
+Plain Greek yogurt,dairy,73,10,4,2,0,200,veg;keto,milk,breakfast;lunch;snack;dinner,per_100g
+Plain cottage cheese,dairy,98,11,3.4,4.3,0,150,veg;keto,milk,breakfast;lunch;snack;dinner,per_100g
+Plain paneer,dairy,265,18,3,21,0,100,veg;keto,milk,breakfast;lunch;snack;dinner,per_100g
+Boiled eggs,protein,155,13,1.1,11,0,100,non-veg;keto,egg,breakfast;lunch;snack;dinner,per_100g
+Grilled chicken breast,protein,165,31,0,3.6,0,150,non-veg;keto,none,lunch;snack;dinner,per_100g
+Baked salmon,protein,206,22,0,12,0,150,non-veg;keto,fish,lunch;snack;dinner,per_100g
+Plain canned tuna,protein,116,26,0,1,0,120,non-veg;keto,fish,lunch;snack;dinner,per_100g
+Roasted turkey breast,protein,135,29,0,1.6,0,150,non-veg;keto,none,lunch;snack;dinner,per_100g

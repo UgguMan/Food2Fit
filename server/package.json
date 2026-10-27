@@ -1,0 +1,38 @@
+{
+  "name": "food2fit-server",
+  "version": "0.1.0",
+  "private": true,
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node --watch dev.js",
+    "start": "node dev.js",
+    "check": "node scripts/checkSyntax.js",
+    "db:indexes": "node scripts/createIndexes.js",
+    "seed:foods": "node seed/seedFoods.js",
+    "seed:exercises": "node seed/seedExercises.js",
+    "test": "node --test --test-concurrency=1 tests/*.test.js"
+  },
+  "engines": {
+    "node": "24.x"
+  },
+  "dependencies": {
+    "@google/genai": "^2.30.0",
+    "bcrypt": "^6.0.0",
+    "cors": "^2.8.6",
+    "csv-parse": "^7.0.3",
+    "dotenv": "^18.0.8",
+    "express": "^5.3.0",
+    "express-rate-limit": "^8.7.1",
+    "express-validator": "^7.3.2",
+    "helmet": "^8.3.0",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.11.2",
+    "multer": "^2.4.0",
+    "sharp": "^0.35.5"
+  },
+  "devDependencies": {
+    "mongodb-memory-server": "^11.3.0",
+    "supertest": "^7.3.1"
+  }
+}
